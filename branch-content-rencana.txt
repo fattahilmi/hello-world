@@ -3,4 +3,6 @@ rencana coding
 - Membuat file html
 - membuat css
 - javascript
+  * ES6
+  * Framework
 - Django
