@@ -6,3 +6,4 @@ rencana coding
   * ES6
   * Framework
 - Django
+- Database
