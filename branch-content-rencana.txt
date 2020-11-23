@@ -6,6 +6,7 @@ rencana coding
   * ES6
   * Framework
     ^Vue
+    ^React
 - Django
 - Database
   ^SQL
