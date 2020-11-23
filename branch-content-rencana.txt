@@ -5,5 +5,8 @@ rencana coding
 - javascript
   * ES6
   * Framework
+    ^Vue
 - Django
 - Database
+  ^SQL
+  -Python
