@@ -1,6 +1,6 @@
 - Ini latihan dengan github
 - Pertama kali
 - Membuat file
-- Mempelajari
 - tambah 1
 - tambah 2
+- Menambah lagi
